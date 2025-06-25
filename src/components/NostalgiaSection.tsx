@@ -50,7 +50,7 @@ const NostalgiaSection = () => {
 
         <div className="text-center bg-gradient-to-r from-yellow-400/20 to-orange-400/20 rounded-xl p-8 backdrop-blur-sm">
           <h3 className="text-3xl font-bold mb-4 font-montserrat text-yellow-300">
-            2018 - Год Начала Нашей Истории 🌟
+            2012-2013 - Год Начала Нашей Истории 🌟
           </h3>
           <p className="text-lg font-open-sans text-purple-100 max-w-3xl mx-auto leading-relaxed">
             Этот год стал особенным не просто так. Мы познакомились,
