@@ -112,7 +112,7 @@ const MemeSection = () => {
                 />
                 <div className="absolute inset-0 bg-black opacity-0 group-hover:opacity-20 transition-opacity duration-300" />
               </div>
-              <div className="p-4">
+              <div className="p-4 bg-slate-900">
                 <p className="text-center font-medium text-gray-800 text-sm leading-relaxed">
                   {meme.caption}
                 </p>
